@@ -1,1 +1,1 @@
-worker: python  parse_game.py
+worker: python -u parse_game.py
