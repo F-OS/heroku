@@ -1,1 +1,1 @@
-worker: python  deep-murasaki/parse_game.py
+worker: python  parse_game.py
